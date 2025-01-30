@@ -23,7 +23,7 @@
             <MenuItem Header="Библиотека">
                 <MenuItem Header="Просмотр каталога"/>
                 <MenuItem Header="Управленние читателями"/>
-                <MenuItem Header="Закрыть приложение"/>
+                <MenuItem Header="Управленние абонементом"/>
                 <MenuItem Header="Отчёты"/>
             </MenuItem>
         </Menu>
